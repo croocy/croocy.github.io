@@ -1,18 +1,16 @@
-body{
-				padding:15px;
-				}
 .centre{
 				text-align:center;
 				font-size:30px:
-				}
-img{
-				height:300px;
-				width:300px;
 				}
 				
 .logo{
 				height:;
 				width:;
 				}
-				
+.wrapper{
+				display:grid;
+				grid-template-columns:47% 47%;
+				grid-column-gap:10px;
+				grid-row-gap:10px;
+				}
 
