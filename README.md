@@ -1,2 +1,2 @@
-# croocy.github.io
-Download colorful, transparent graphics to decorate your Instagram posts and stories.
+# Croocy ,Solid color backgrounds
+Download colorful, solid color backgrounds to decorate your posts and stories.
